@@ -1,0 +1,1 @@
+import{P as o,_ as i}from"./photoswipe-lightbox.esm.C_TQ_P34.js";import"https://cdn.jsdelivr.net/npm/flowbite@latest/dist/flowbite.min.js";import"https://cdn.tailwindcss.com";const t=new o({gallery:"#gallery",children:"a",pswpModule:()=>i(()=>import("./photoswipe.esm.C0FT-EY-.js"),[])});t.init();

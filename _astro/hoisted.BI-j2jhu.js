@@ -1,0 +1,1 @@
+import"https://cdn.jsdelivr.net/npm/flowbite@latest/dist/flowbite.min.js";import"https://cdn.tailwindcss.com";let s=document.querySelectorAll("section");window.onscroll=()=>{s.forEach(o=>{let t=window.scrollY,e=o.offsetTop-150,l=o.offsetHeight;t>=e&&t<e+l?o.classList.add("animate-scroll"):o.classList.remove("animate-scroll")})};
